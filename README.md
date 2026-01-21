@@ -15,10 +15,6 @@ I would like to learn languages like Python, Go, and Rust which is what this Git
 - I don't regularly drink coffee or tea (although I do enjoy the occasional matcha).
 - Much like most things in the US, I was also made in China.
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f2cbb76c-cd81-4200-a1dd-a05c98f4fa77/thumbnail" >
-</p>
-
 <!--
 **hktristan/hktristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
